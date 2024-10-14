@@ -14,7 +14,7 @@
         "cakephp/bake": "^3.0.0",
         "cakephp/cakephp-codesniffer": "^5.0",
         "josegonzalez/dotenv": "^4.0",
-        "phpunit/phpunit": "^10.1.0"
+        "phpunit/phpunit": "^11.4.1"
     },
     "suggest": {
         "cakephp/repl": "Console tools for a REPL interface for CakePHP applications.",
